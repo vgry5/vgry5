@@ -3,7 +3,7 @@
 <!-->
 **vgry5/vgry5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<h1 align="center">Hi 👋, I'm Yenuka Veenath Rajapaksha </h1>
+<h1 align="center">Hi 👋, I'm Yenuka Rajapaksha </h1>
 <h3 align="center">A passionate undergraduate student pursuing a degree in Artificial Intelligence and Data Science.</h3>
 
 <!--><p align="left"> <img src="https://komarev.com/ghpvc/?username=arkhash0309&label=Profile%20views&color=0e75b6&style=flat" alt="arkhash0309" /> </p>
