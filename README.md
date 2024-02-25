@@ -12,8 +12,6 @@
 
 <!--><p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<!--> 📝 I regularly write articles on [https://medium.com/@arkhash.20221213](https://medium.com/@arkhash.20221213)
-
 - 📫 How to reach me **gvryeth@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
