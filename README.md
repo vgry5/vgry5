@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yenuka Rajapaksha</h1>
+<h1 align="center">Hi 👋, I'm Yenuka Veenath Rajapaksha</h1>
 <h3 align="center">Undergraduate in Artificial Intelligence and Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vgry5&label=Profile%20views&color=0e75b6&style=flat" alt="vgry5" /> </p>
